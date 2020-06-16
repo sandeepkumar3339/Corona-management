@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1588180828 source:c:\users\sandeepkumar\desktop\codes-'c'\project corona\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1588182965 source:c:\users\sandeepkumar\desktop\sem 2\c programmingsem2\project corona\project corona\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1589389055 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project corona\project corona\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
